@@ -1,0 +1,14 @@
+{
+    "elements": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "type": true,
+    "value": null,
+    "content": {
+        "eyes": "blue",
+        "age": 15
+    }
+}
